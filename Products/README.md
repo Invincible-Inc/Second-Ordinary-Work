@@ -14,7 +14,7 @@
 
 __*注意*__：插入图片用markdown的 `![name](URL)` 语法插入。若不熟悉请自行上网查阅markdown插入图片的方法。不要直接用html标签等方式插入。
 
-每次提交编辑后请访问[博客页面](https://invincible-inc.github.io/Second-Ordinary-Teamwork/Products/business_case
+每次提交编辑后请访问[博客页面](https://invincible-inc.github.io/Second-Ordinary-Work/Products/business_case
 )进行核查。
 
 ## PPT
