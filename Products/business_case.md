@@ -28,9 +28,9 @@
 目前市面上的“云或移动项目管理服务软件”比比皆是。作业说明中特别提到的“Agilo for Scrum”，经调查发现已不维护，转由“Agilo for Trac”提供服务。
 
 经筛选，在此选择以下软件进行分析：
-- __Zoho Projects__： [Zoho Projects官网-项目管理](https://www.zoho.com.cn/projects/)、[Zoho Projects官网-IT项目管理](https://www.zoho.com.cn/projects/it-project-management.html)
-- __CORNERSTONE__： [CORNERSTONE官网](https://www.cornerstone365.cn/)
-- __TAPD__： [TAPD官网](https://www.tapd.cn/)
+- __Zoho Projects__： 所有者：Zoho Corporation， [Zoho Projects官网-项目管理](https://www.zoho.com.cn/projects/)、[Zoho Projects官网-IT项目管理](https://www.zoho.com.cn/projects/it-project-management.html)
+- __CORNERSTONE__： 所有者：深圳市基石协作科技有限公司， [CORNERSTONE官网](https://www.cornerstone365.cn/)
+- __TAPD__：所有者：腾讯公司， [TAPD官网](https://www.tapd.cn/)
 
 值得一提的是，TAPD是腾讯旗下的一站式敏捷研发协作云平台，对软件项目管理比较友好。
 
