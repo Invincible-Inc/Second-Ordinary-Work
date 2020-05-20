@@ -7,7 +7,14 @@
 
 
 ## 电子文档 [business_case.md](./business_case.md)
-将该github仓库clone到本地<br>
+
+选取分析的三个项目管理软件：
+- __Zoho Projects__： [Zoho Projects官网-项目管理](https://www.zoho.com.cn/projects/)、[Zoho Projects官网-IT项目管理](https://www.zoho.com.cn/projects/it-project-management.html)
+- __CORNERSTONE__： [CORNERSTONE官网](https://www.cornerstone365.cn/)
+- __TAPD__： [TAPD官网](https://www.tapd.cn/)
+
+
+请各位同学将该github仓库clone到本地<br>
 使用 __markdown__ 语言将自己负责的那部分内容填充完整。<br>
 如需添加图片，将图片文件放在 __当前目录下Images文件夹__ 中，并在文档中用相对路径的方式添加图片。<br>
 在本地完成负责部分后commit到github仓库
