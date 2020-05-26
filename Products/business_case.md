@@ -352,6 +352,8 @@ CORNERSTONE对其服务的收费有两种套餐：
 ### 3. TAPD
 
 TAPD的所有套餐在写下此文的当前时间都为免费全面开放 ，经查询过客服后，不排除未来有收费可能。并且在疫情期间免费开放企业版使用，为期6个月。
+
+
 ![](https://github.com/Invincible-Inc/Second-Ordinary-Work/blob/master/Products/Images/TAPD%E7%9B%88%E5%88%A9.jpg)
 
 
